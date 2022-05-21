@@ -15,7 +15,7 @@ usage: script.pl fastq PHRED_cutoff constant_check rev_comp(-1)
 
 usage sort 01Mpro.out > 01Mpro_sort.out
 
-3) 02_Mpro.pl
+3) 02_parse_identifiers.pl
 
 usage: script.pl 01Mpro_sort.out
 
