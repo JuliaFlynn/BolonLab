@@ -21,6 +21,6 @@ usage: script.pl 01Mpro_sort.out
 
 #reads in sorted barcode file and for each index sequence outputs the tabulation of reads of each barocde as 02Mpro.out
 
-4) 03_Mpro.pl
+4) 03_tabulate_counts.pl
 
-03_Mpro.pl calls the 02Mpro.out flie and the barcode-ORF assembly file and outputs the tabluation for each mutation organized by position, amino acid, codon, for each index
+03_tabulate_counts.pl calls the 02Mpro.out flie and the barcode-ORF assembly file and outputs the tabluation for each mutation organized by position, amino acid, codon, for each index
